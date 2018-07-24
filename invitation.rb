@@ -1,7 +1,7 @@
 guest_name = Tom
 party_name = Ultimate Birthday Bash 
 date  = August Fourth 
-time = 3pm
+time = 
 host_name = Hana
 
 puts "Dear #{guest_name}, "

@@ -22,4 +22,4 @@ Sincerely,
 Harry Potter
 ```
 puts "Dear #{guest_name}, "
-puts ""
+puts "You are invited to #{party_name}" at
